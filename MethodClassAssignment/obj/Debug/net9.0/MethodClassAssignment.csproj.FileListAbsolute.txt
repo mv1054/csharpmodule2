@@ -1,0 +1,14 @@
+c:\Users\mv105\Documents\C#\MethodClassAssignment\bin\Debug\net9.0\MethodClassAssignment.exe
+c:\Users\mv105\Documents\C#\MethodClassAssignment\bin\Debug\net9.0\MethodClassAssignment.deps.json
+c:\Users\mv105\Documents\C#\MethodClassAssignment\bin\Debug\net9.0\MethodClassAssignment.runtimeconfig.json
+c:\Users\mv105\Documents\C#\MethodClassAssignment\bin\Debug\net9.0\MethodClassAssignment.dll
+c:\Users\mv105\Documents\C#\MethodClassAssignment\bin\Debug\net9.0\MethodClassAssignment.pdb
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.AssemblyInfoInputs.cache
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.AssemblyInfo.cs
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.csproj.CoreCompileInputs.cache
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.dll
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\refint\MethodClassAssignment.dll
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.pdb
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\MethodClassAssignment.genruntimeconfig.cache
+c:\Users\mv105\Documents\C#\MethodClassAssignment\obj\Debug\net9.0\ref\MethodClassAssignment.dll
